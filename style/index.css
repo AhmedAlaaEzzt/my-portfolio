@@ -10,3 +10,15 @@
 footer {
   text-align: center;
 }
+
+.my-picture {
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: right;
+}
+
+hr {
+  clear: both;
+}
